@@ -1,0 +1,12 @@
+linguagem de programação:
+	Python 3.11.5 ou superior
+
+blibliotecas:
+	Streamlit, version 1.41.1 ou superior
+	Pandas 2.2.1
+	Plotly 5.19.0
+	Joblib 1.3.2
+	Scikit-Learn (sklearn) 1.4.2
+	Numpy 1.26.4
+
+ 
